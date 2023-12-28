@@ -116,7 +116,6 @@ namespace ConsoleApp7
             }
             return count + 1;
         }
-
         //static int WordCount(string text)  //eger boshluglarin sayi 1den chox olarsa
         //{
         //    int count = 0;
@@ -124,13 +123,12 @@ namespace ConsoleApp7
         //    {
         //        if (text[i] == ' ')
         //        {
-        //            if (text[i+1] == ' ')
+        //            if (text[i+1]! == ' ')
         //            {
         //            count++;
 
         //            }
         //        }
-
         //    }
         //    return count + 1;
         //}
